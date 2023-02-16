@@ -1,5 +1,5 @@
 // Import data
-
+import { postings } from "./postings";
 // Import components
 import './App.css';
 
